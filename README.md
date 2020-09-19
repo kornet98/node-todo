@@ -21,7 +21,7 @@ Node Express Mongo sample ToDo app
 ## Routes
 
     
-POST /todos				Create a new task
-GET /todos				Get all tasks
-	PUT /todos/:id			Update task
-	DELETE /todos/:id		Delete task
+	POST /todos				Create a new task
+	GET /todos				Get all tasks
+	PUT /todos/:id				Update task
+	DELETE /todos/:id			Delete task
